@@ -5,4 +5,4 @@ $ npm install
 ```sh
 $ npm start
 ```
-Go to [http://localhost:3000/repos/franksiao](http://localhost:3000/repos/{yourgithubaccount}):
+Go to [http://localhost:3000/repos/{yourgithubaccount}](http://localhost:3000/repos/franksiao):
